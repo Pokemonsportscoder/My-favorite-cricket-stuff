@@ -39,3 +39,11 @@ h1{
 .links:hover{
     background-color: orange;
 }
+
+a{
+    text-decoration: underline;
+}
+
+.article:hover{
+    background-color: khaki;
+}
