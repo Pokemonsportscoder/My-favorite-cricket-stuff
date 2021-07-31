@@ -47,3 +47,6 @@ a{
 .article:hover{
     background-color: khaki;
 }
+.img:hover{
+    transform: scale(0.9);
+}
