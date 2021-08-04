@@ -38,6 +38,7 @@ h1{
 }
 .links:hover{
     background-color: orange;
+    font-family: 'The Girl Next Door', cursive;
 }
 
 a{
@@ -47,6 +48,11 @@ a{
 .article:hover{
     background-color: khaki;
 }
+
 img:hover{
     transform: scale(0.9);
 }
+
+#contact iframe{ 
+    width: 100%; 
+} 
